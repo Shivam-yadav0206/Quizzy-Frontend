@@ -42,7 +42,7 @@ import axios from 'axios';
 import swal from 'sweetalert';
 
 import DashboardNav from '../../../components/DashboardNav.vue';
-import Futer from '../../../components/Footer.vue';
+import Futer from '../../../components/footer.vue';
 export default {
     name: 'addquiz',
     components:{
@@ -159,10 +159,6 @@ h2 {
     transition: all .4s;
     position: relative;
     z-index: 3;
-}
-
-#contact-form button:hover {
-    /* opacity: 0.8; */
 }
 
 .contact-us-content .more-info {
