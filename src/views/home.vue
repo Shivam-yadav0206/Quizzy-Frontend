@@ -21,7 +21,7 @@ import team from './team.vue';
 import testimonial from './testimonial.vue';
 import upcoming from './upcoming.vue';
 import contactUs from './contactUs.vue';
-import Futer from '../components/Footer.vue';
+import Futer from '../components/footer.vue';
 export default {
     name:'home',
 
