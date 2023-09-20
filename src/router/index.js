@@ -77,7 +77,7 @@ const router = createRouter({
         {
           path:'add-quiz',
           name:'addquiz',
-          component: ()=>import('../views/Dashboard/Teacher/addquiz.vue')
+          component: ()=>import('../views/Dashboard/Teacher/AddQuiz.vue')
         },
         {
           path:'add-questions',
