@@ -6,7 +6,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-member">
             <div class="main-content">
-              <img src="../assests/images/member1.jpg" alt="">
+              <img src="../assests/images/member1.png" alt="">
               <span class="category">SDE @Optum</span>
               <h4>Shivam Yadav</h4>
               <ul class="social-icons">
