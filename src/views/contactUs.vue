@@ -176,7 +176,7 @@ Contact Style
 }
 
 .contact-us .contact-us-content::before {
-  background: url(../images/contact-dec-01.png);
+  background: url(../assests/images/contact-dec-01.png);
   position: absolute;
   left: 50%;
   transform: translateX(-149px);
@@ -189,7 +189,7 @@ Contact Style
 }
 
 .contact-us .contact-us-content::after {
-  background: url(../images/contact-dec-02.png);
+  background: url(../assests/images/contact-dec-02.png);
   position: absolute;
   right: 0;
   bottom: 0;

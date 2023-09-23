@@ -243,7 +243,7 @@ footer p a:hover {
 }
 
 footer::before {
-  background: url(../images/contact-dec-01.png);
+  background: url(../../../assests/images/contact-dec-01.png);
   position: absolute;
   left: 30px;
   transform: rotate(180deg);
